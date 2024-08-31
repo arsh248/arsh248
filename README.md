@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arshdeep Singh Mathadu</h1>
-<h3 align="center">Currently , 4th year Student of Artificial Intelligence and Data Science Engineering</h3>
-
+<!-- <h3 align="center">Currently , 4th year Student of Artificial Intelligence and Data Science Engineering</h3>
+ -->
 - 📫 How to reach me **arshdeepsinghmathadu707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
